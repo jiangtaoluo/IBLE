@@ -1,0 +1,31 @@
+
+ffffffffbb017e64 ffffffffdae2747e ffffffffc83d0c54
+
+647e01 bbffff ffff 74 2eda ffffff
+ZH4B u/// //9+ dOLa //// /1QM Pcj/ //// RTtq vv// //8Y 4j78 //// /6Du QP3/ ////
+
+////
+
+ZH4Bu/////9+dOLa/////1QMPcj/////
+
+ffffff ffbb01 7e64ff ffffff dae274 00ffff ffffc8 3d0c54
+(1)
+ffffffffbb017e64	ffffffffdae2747e	ffffffffc83d0c54	
+ZH4Bu/////9+dOLa/////1QMPcj/////
+ffffffffbb017e64	ffffffffdae27400	ffffffffc83d0c54	
+
+
+==> reverted byte order
+647e01	bbffff	ffff7e	74e2da	ffffff	ff540c	3dc8ff	ffffff
+ZH4B	u///	//9+	dOLa	////	/1QM	Pcj/	////
+
+==> "ffff7e" can be encoded normally, while decoded imnormally!!!
+
+
+(2)
+ffffffffdae2747e	ffffffffbb017e64	ffffffffc83d0c54	
+fnTi2v////9kfgG7/////1QMPcj/////
+ffffffffdae2747e	ffffffffbb017e00	ffffffffc83d0c54
+
+
+	
