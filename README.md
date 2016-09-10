@@ -7,7 +7,7 @@ Thanks to the Identity-Based Encryption over NTRU Lattices, refer to README.md.o
 
 How to use?
 ==========================
-1. Install dependent libraries including NTL(http://www.shoup.net/ntl/), GMP(gmplib.org) and CRYPTO++ (www.cryptopp.com/), make sure to install them on default location, using "sudo make install".
+1. Install dependent libraries including NTL(http://www.shoup.net/ntl/), GMP(htts://gmplib.org) and CRYPTO++ (http://www.cryptopp.com/), make sure to install them on default location, using "sudo make install".
 2. Download the master zip file: IBLE-master.zip;
 2. Decompress the zip file: "unzip IBLE-master.zip", a directory of IBLE-master/ (change the directore name as you like) will be automatically generated;
 3.  cd IBLE-master/; make; ./IBE
